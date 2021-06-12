@@ -135,7 +135,9 @@ nav {
       background-color: #1eacc7; }
 
 .reasons {
-  padding: 71px 0 65px 0; }
+  padding: 71px 0 65px 0;
+background-color: #333333;
+}
 
 .label {
   margin: 0 auto;
