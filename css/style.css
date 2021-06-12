@@ -471,6 +471,15 @@ footer {
     text-transform: uppercase;
     text-align: center; }
 
+.footer_mobile {
+  width: 160px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
+
 .xs-visible {
   display: none; }
 
