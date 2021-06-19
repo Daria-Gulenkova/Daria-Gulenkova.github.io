@@ -172,9 +172,25 @@ background-color: #070716;
   text-transform: uppercase;
   text-align: center; }
 
+.title_mobile {
+  margin-bottom: 0;
+  margin-top: 38px;
+  color: #333333;
+  font-size: 38px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center; }
+
 .subtitle {
   margin-top: 19px;
   color: #ffffff;
+  font-size: 17px;
+  font-weight: 400;
+  text-align: center; }
+
+.subtitle_mobile {
+  margin-top: 19px;
+  color: #333333;
   font-size: 17px;
   font-weight: 400;
   text-align: center; }
