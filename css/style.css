@@ -209,21 +209,7 @@ background-color: #070716;
       -ms-flex-align: center;
           align-items: center;
   margin-top: 35px; }
-  .reasons .reasons_block_round {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    margin-right: 26px;
-    width: 113px;
-    height: 113px;
-    background-color: #000000;
-    border-radius: 100%; }
+ 
   .reasons .reasons_block_descr {
     width: 343px; }
     .reasons .reasons_block_descr_subtitle {
