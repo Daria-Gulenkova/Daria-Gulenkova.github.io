@@ -209,6 +209,9 @@ background-color: #070716;
       -ms-flex-align: center;
           align-items: center;
   margin-top: 35px; }
+
+.reasons .reasons_block_round {
+    padding: 20px; }
  
   .reasons .reasons_block_descr {
     width: 343px;
