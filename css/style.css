@@ -212,7 +212,7 @@ background-color: #070716;
  
   .reasons .reasons_block_descr {
     width: 343px;
-    padding: 20px 0 0 0; }
+    padding: 0 20px 0 0; }
     .reasons .reasons_block_descr_subtitle {
       line-height: 21px;
       color: #ffffff;
