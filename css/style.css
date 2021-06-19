@@ -208,7 +208,8 @@ background-color: #070716;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-top: 35px; }
+  margin-top: 35px;
+  padding: 20px; }
  
   .reasons .reasons_block_descr {
     width: 343px;
