@@ -195,6 +195,9 @@ background-color: #070716;
   font-weight: 400;
   text-align: center; }
 
+.reasons .reasons_block_descr_subtitle {
+  color: #ffffff; }
+
 .reasons .reasons_block {
   display: -webkit-box;
   display: -ms-flexbox;
