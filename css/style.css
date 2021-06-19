@@ -211,7 +211,8 @@ background-color: #070716;
   margin-top: 35px; }
  
   .reasons .reasons_block_descr {
-    width: 343px; }
+    width: 343px;
+    margin-left: 20px; }
     .reasons .reasons_block_descr_subtitle {
       line-height: 21px;
       color: #ffffff;
