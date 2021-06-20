@@ -224,7 +224,7 @@ background-color: #070716;
  
   .reasons .reasons_block_descr {
     width: 100px;
-    padding: 0 40px 0 40px; 
+    margin: 0 40px 0 40px; 
     color: #ffffff; }
     .reasons .reasons_block_descr_subtitle {
       line-height: 21px;
