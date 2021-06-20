@@ -222,6 +222,9 @@ background-color: #070716;
           align-items: center;
   margin-top: 35px; }
  
+.reasons .reasons_block_round {
+  margin: 0 40px 0 40px; }
+  
   .reasons .reasons_block_descr {
     width: 100px;
     margin: 0 40px 0 40px; 
