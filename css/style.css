@@ -204,7 +204,10 @@ background-color: #070716;
   font-weight: 400;
   text-align: center; }
 
-.reasons_text .reasons_subtitle {
+.reasons_text  {
+  color: #ffffff; }
+
+.reasons_subtitle {
   color: #ffffff; }
 
 .reasons .reasons_block {
@@ -221,7 +224,8 @@ background-color: #070716;
  
   .reasons .reasons_block_descr {
     width: 250px;
-    padding: 0 40px 0 40px; }
+    padding: 0 40px 0 40px; 
+    color: #ffffff; }
     .reasons .reasons_block_descr_subtitle {
       line-height: 21px;
       color: #ffffff;
